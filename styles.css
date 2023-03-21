@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-div{
+.main{
 	width:200px;
 	background-color: purple;
 	border-left-width:5px;
@@ -9,7 +9,7 @@ div{
 	padding:10px;
 	
 }
-h1{
+#heading{
 	font-size:20px;
 	color: white;
 	 text-decoration-line: underline;
