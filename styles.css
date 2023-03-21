@@ -3,8 +3,9 @@
 div{
 	width:200px;
 	background-color: purple;
+	border-left-width:5px;
+	border-left-style: solid;
 	border-left-color: green;
-	border-left-thickness:5px;
 	padding:10px;
 	
 }
